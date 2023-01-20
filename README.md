@@ -1,1 +1,1 @@
-## Motoko-Bootcamp 2023 Challeges & their solutions
+## Motoko-Bootcamp 2023 Challeges & their solution
